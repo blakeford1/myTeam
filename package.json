@@ -1,29 +1,23 @@
 {
-  "name": "unit10hw",
+  "name": "myteam",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
-  "main": "app.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
+  "description": "A simple app that helps generate a team profile. User is able to generate a profile of all the people on their team with important details about team members.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.5.2"
   },
+  "devDependencies": {},
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/blakeford1/myTeam.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/blakeford1/myTeam/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
-  "dependencies": {
-    "inquirer": "^6.5.2"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
-  }
+  "homepage": "https://github.com/blakeford1/myTeam#readme"
 }
