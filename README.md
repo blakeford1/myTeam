@@ -14,4 +14,4 @@ so that I have quick access to emails and GitHub profiles
 ## Functionality
 When a user begins the application, they are prompted to choose between creating the profile of a manager, engineer, or intern. After answering questions related to all of the team members, an html is creating with a  card containing basic information on all team members. 
 
-[![<iframe width="560" height="315" src="https://www.youtube.com/embed/gnnWaZgzDD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](doc/screenshot_youtube.PNG)](https://www.youtube.com/watch?v=VIDEO-ID "Check me out!")
+[![https://youtu.be/gnnWaZgzDD8](doc/screenshot_youtube.PNG)](https://www.youtube.com/watch?v=VIDEO-ID "Check me out!")
