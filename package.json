@@ -4,11 +4,12 @@
   "description": "A simple app that helps generate a team profile. User is able to generate a profile of all the people on their team with important details about team members.",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^6.5.2"
+    "inquirer": "^6.5.2",
+    "jest": "^26.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
